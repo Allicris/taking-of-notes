@@ -28,7 +28,7 @@ Install the following in this order:
 -Make sure to catch errors so that the terminal can let you know if theres any issue on the code. 
 
 ## Link 
-Deployed website: 
+Deployed website: https://limitless-sea-19729-0b42e83940e4.herokuapp.com/
 
 ## Successes and Challenges 
 A challenge I faced in this project is trying to connect to the static files. You have to make sure that you have the right file path or else your API's won't work properly. 
